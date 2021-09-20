@@ -3,6 +3,7 @@ The smallest single layer Development board design for atmega328p,Design by kica
 # 自已的開發板自己做工作坊
 ## 裸線焊接你的Atmega328p最小系統板
 [單層板設計_kicad_github](https://github.com/chenlotung/atmega328pSmallest_EVB)
+[工作訪計畫書_hackmd](https://hackmd.io/4ialXZNIRGWbu7fYnHaSIw?both)
 # 所需材料(粗估成本:每份230元不含運，不含uno板及焊接工具)
 - [ ] arduino uno r3 開發板
 - [ ] cp2102 usb to ttl 模組
