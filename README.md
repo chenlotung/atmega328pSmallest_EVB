@@ -1,5 +1,3 @@
-# atmega328pSmallest_EVB
-The smallest single layer Development board design for atmega328p,Design by kicad
 # 自已的開發板自己做工作坊
 ## 裸線焊接你的Atmega328p最小系統板
 [單層板設計_kicad_github](https://github.com/chenlotung/atmega328pSmallest_EVB)
@@ -8,6 +6,7 @@ The smallest single layer Development board design for atmega328p,Design by kica
 - [ ] arduino uno r3 開發板
 - [ ] cp2102 usb to ttl 模組
 - [ ] atmega328p dip 28pin
+- [ ] 5x7cm以上，單面或雙面玻纖萬孔板
 - [ ] 16MHZ 石英震盪器
 - [ ] 18-22pF陶瓷電容*2
 - [ ] 長杜邦針or母座*28
@@ -19,7 +18,11 @@ The smallest single layer Development board design for atmega328p,Design by kica
 - [ ] 焊錫
 
 # 實驗步驟
-
+1. 元件測試
+    -  led、按鈕通斷測試
+    -  電容值電阻值紀錄
+    -  使用麵包板與uno燒錄bootloader 確認晶片功能正常
+定位各元件位置，（參考位置圖)
 # 參考資料
 ## 照片 
 - atmega328p pin out
