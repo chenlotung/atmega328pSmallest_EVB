@@ -1,7 +1,12 @@
 # 自已的開發板自己做工作坊
-## 裸線焊接你的Atmega328p最小系統板
-[單層板設計_kicad_github](https://github.com/chenlotung/atmega328pSmallest_EVB)
+## 裸線焊接你的Atmega328p迷你開發板
 [工作訪計畫書_hackmd](https://hackmd.io/4ialXZNIRGWbu7fYnHaSIw?both)
+
+[單層板設計_kicad_github](https://github.com/chenlotung/atmega328pSmallest_EVB)
+- kicad 3d模型圖
+- ![](https://i.imgur.com/sa9PwSL.jpg)
+
+
 # 所需材料(粗估成本:每份230元不含運，不含uno板及焊接工具)
 - [ ] arduino uno r3 開發板
 - [ ] cp2102 usb to ttl 模組
@@ -22,7 +27,11 @@
     -  led、按鈕通斷測試
     -  電容值電阻值紀錄
     -  使用麵包板與uno燒錄bootloader 確認晶片功能正常
-定位各元件位置，（參考位置圖)
+
+定位各元件位置，（參照參考資料之位置圖與走線圖)
+
+未完待續...................
+未完成項目:底座製圖(四角拔模圓柱，矩形底座)
 # 參考資料
 ## 照片 
 - atmega328p pin out
@@ -30,6 +39,12 @@
 ![](https://img.ruten.com.tw/s1/4/15/e1/21301169429985_318.jpg)
 - arduino uno r3 schematic
 ![](https://electronoobs.com/images/Arduino/tut_31/arduino_uno_scheamtic.png)
+- 萬孔板正面元件位置圖
+- ![](https://i.imgur.com/sWUdLk9.jpg)
+
+- 萬孔板背面走線圖
+- ![](https://i.imgur.com/kPIMdNf.jpg)
+
 ## 影片
 
 
